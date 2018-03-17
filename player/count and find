@@ -1,0 +1,7 @@
+stringvar=("programmer")
+x=stringvar.count('r')
+y=stringvar.find('g')
+z=stringvar.replace('m','Y')
+print(x)
+print(y)
+print(z)
