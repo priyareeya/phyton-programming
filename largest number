@@ -1,0 +1,12 @@
+    numa=int(input(enter the number));
+    numb=int(input(enter the number));
+    numc=int(input(enter the number));
+    if(numa>numb&numa>numc):
+       largest=a:
+    elif(numb>numa&numb>numc):
+         largest=b:
+    else:
+         largest=c:
+      print("the largest number")   
+    
+    
